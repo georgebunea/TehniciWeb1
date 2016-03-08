@@ -19,3 +19,9 @@
 	height:357px; 
 	margin:auto;
 }
+
+.about{
+	height: 357px;
+	width: 635px;
+	border:4px Solid black;
+}
